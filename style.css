@@ -55,7 +55,7 @@ body {
 }
 
 .social-links i {
-   font-size: 30px;
+   font-size: 40px;
 }
 
 /* Hover effect */
@@ -71,6 +71,9 @@ body {
 }
 #you{
     color: red;
+}
+#git{
+    color: black;
 }
 /* Media queries for responsiveness */
 @media only screen and (max-width: 600px) {
