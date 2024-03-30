@@ -63,6 +63,15 @@ body {
     opacity: 0.7;
 }
 
+#insta{
+    color: palevioletred;
+}
+#lind{
+    color: blue;
+}
+#you{
+    color: red;
+}
 /* Media queries for responsiveness */
 @media only screen and (max-width: 600px) {
     .profile-container {
